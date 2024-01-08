@@ -22,7 +22,7 @@ Players need to create pairs of connected tiles by moving them and eliminate the
 
 Players must strategically plan tile movements to avoid creating irreversible blockages.
 
-# [Project Video](https://youtu.be/UB3-6KRj8dM)
+## [Project Video](https://youtu.be/UB3-6KRj8dM)
 Click on the title to view the video.
 
 ## Game Screenshots
